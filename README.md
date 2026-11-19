@@ -20,10 +20,12 @@ exp1_boolean_min_tb.v	Verilog testbench
 exp1_boolean_min.vcd	VCD waveform dump generated during simulation
 
 ## Verilog Program
+<img width="1917" height="955" alt="EXP 1 FUN V" src="https://github.com/user-attachments/assets/d8933119-43c3-436d-aff7-2a202a47832a" />
 
 
 
 ## TestBench Program
+<img width="1591" height="840" alt="EXP 1 TB V" src="https://github.com/user-attachments/assets/32401f60-f93c-40f8-9c54-194306b5e7e8" />
 
 
 
@@ -84,6 +86,7 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
+<img width="1920" height="1080" alt="EXP 1 WAVE" src="https://github.com/user-attachments/assets/142b4056-cb7d-4db8-9890-0be253873aff" />
 
 
 
