@@ -20,6 +20,7 @@ exp1_boolean_min_tb.v	Verilog testbench
 exp1_boolean_min.vcd	VCD waveform dump generated during simulation
 
 ## Verilog Program
+
     //gedit fun.v
 module fun (
 input wire A, 
@@ -33,6 +34,7 @@ endmodule
 
 
 ## TestBench Program
+
 // gedit tb.v
 module tb;
     reg A, B;
@@ -61,6 +63,7 @@ module tb;
     end
 
 endmodule
+
 
 
 
